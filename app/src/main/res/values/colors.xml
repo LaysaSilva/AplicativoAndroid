@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FF8083</color>  <!-- Aqui é o Home -->
+    <color name="purple_500">#D560FF</color>
+    <color name="purple_700">#FF4D52</color>  <!-- Aqui é a barra superior de Layout -->
+    <color name="teal_200">#FF8083</color>    <!-- Aqui é o icone de Carta -->
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FFFFFF</color>    <!-- Aqui é a cor de dentro da carta -->
+    <color name="white">#FFFFFFFF</color>
+</resources>
